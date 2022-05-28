@@ -33,7 +33,7 @@ Make sure you have **Node** (version: `12.14.0` or above) installed in your syst
 
 ```
 // Install dependencies for server & client
-npm install && npm run install:client
+npm run install:server && npm run install:client
 
 // Run client and server with concurrently
 npm run dev

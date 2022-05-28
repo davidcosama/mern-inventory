@@ -1,9 +1,14 @@
 .env
 node_modules
 
+# client
 client/node_modules
 client/.pnp
 client/.pnp.js
+
+# server
+server/node_modules
+server/config/keys.js
 
 # testing
 client/coverage
